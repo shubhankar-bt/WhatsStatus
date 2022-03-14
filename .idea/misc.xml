@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/background_color.xml" value="0.2953703703703704" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.25555555555555554" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.25555555555555554" />
+        <entry key="app/src/main/res/drawable/ic_save.xml" value="0.25555555555555554" />
+        <entry key="app/src/main/res/drawable/ic_security.xml" value="0.25555555555555554" />
+        <entry key="app/src/main/res/drawable/ic_telegram.xml" value="0.25555555555555554" />
+        <entry key="app/src/main/res/drawable/rec_back.xml" value="0.2953703703703704" />
+        <entry key="app/src/main/res/drawable/tab_text_selector.xml" value="0.3111111111111111" />
+        <entry key="app/src/main/res/layout-v31/activity_splash.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25462962962962965" />
+        <entry key="app/src/main/res/layout/activity_privacy_policy.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/custom_pop_up_layout.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_image.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/fragment_saved_files.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/fragment_video.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/item_saved_files.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/item_status.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/view_image_full_screen.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/view_video_full_screen.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2953703703703704" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_2.xml" value="0.2953703703703704" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2953703703703704" />
+        <entry key="app/src/main/res/xml/provider_paths.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

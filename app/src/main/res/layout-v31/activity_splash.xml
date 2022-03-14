@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".SplashActivity">
+    
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_150sdp"
+        android:theme="?android:splashScreenTheme"
+        android:contentDescription="?android:windowSplashScreenBrandingImage"
+        android:layout_centerInParent="true"
+        android:src="@drawable/whatstatus_logo_round"/>
+
+    <TextView
+        android:id="@+id/h1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:layout_above="@id/h2"
+        android:gravity="center"
+        android:layout_marginBottom="3dp"
+        android:textColor="@color/white"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/h2"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:text="@string/by_gautham"
+        android:textColor="@color/white"
+        android:textSize="14sp"/>
+
+</RelativeLayout>

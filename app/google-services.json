@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352488069728",
+    "project_id": "whatsstatus-f0612",
+    "storage_bucket": "whatsstatus-f0612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352488069728:android:77aa87d678a35e19d9c105",
+        "android_client_info": {
+          "package_name": "com.shubhankarsudip.whatsappstatussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352488069728-tbvehmd25k2b20br2umtva01jrf8ao5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxpuV5E7GUlGef0WiFuUuzNMykjX9KtG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352488069728-tbvehmd25k2b20br2umtva01jrf8ao5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
